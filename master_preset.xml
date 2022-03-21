@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets version="0.1.0" xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"    
+    shortdescription="Template Preset for Vespucci and JOSM"
+    description="Template preset for Vespucci and JOSM">
+<!--
+    Format description: https://josm.openstreetmap.de/wiki/TaggingPresets
+-->
+
+    <item name="Dummy" name_context="dummy" icon="dummy_icon" type="node,way,closedway,multipolygon" preset_name_label="true">            
+    </item> <!-- Dummy -->
+</presets>
